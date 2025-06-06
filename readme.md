@@ -10,7 +10,7 @@ This repository contains the code and resources for Team6's RAG (Retrieval-Augme
 
 ## Flowchart
 
-<img src="img/Flowchart.png" width="700">
+<img src="img/Flowchart.png" width='700'>
 
 ## Result
 
